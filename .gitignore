@@ -1,5 +1,6 @@
 # datasets
-*.csv
+lenta-ru-news.csv
+*.pkl
 
 # debug
 .ipynb_checkpoints/
